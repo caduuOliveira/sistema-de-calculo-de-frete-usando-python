@@ -66,7 +66,7 @@ def rotaObj(): # funcao que captura qual a rota do usuario e gera um multiplicad
 
 
 
-print('Bem vindo a Companhia de Logistica do Carlos Eduardo Silva De Oliveira')# identificador
+print('Bem vindo a Companhia de Logistica do Carlos Eduardo Silva De Oliveira')
 dimensoes = dimensoesObj()
 peso = pesoObj()
 rota = rotaObj()
